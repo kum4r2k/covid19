@@ -1,6 +1,10 @@
 # Analysing COVID-19 pandemic in India using python
 
-This is an original project that I have worked on myself alone. I have included the dataset used named "covid2.csv", it was updated to till August 2020. This is a small project, it is not maintained regularly. The project looks promising if more data is available pubicly in India. I am listing the various sources below.
+This is an original project that I have worked on myself alone. I have included the dataset used named "covid2.csv", it was updated to till August 2020.
+
+Matplotlib, panda and numpy libraries are required along with python3 installed to run the file "graph.py". To run it simply run the command "python3 graph.py" in your shell in the directory you cloned these files.
+
+This is a small project, it is not maintained regularly. The project looks promising if more data is available pubicly in India. I am listing the various sources below.
 
     1. COVID-19 cases, deaths and cured/discharged data as of August 7th, 2020 “https://www.mygov.in/corona-data/covid19-statewise-status/”
     2. Population of Indian states as reported in the 2011 census http://statisticstimes.com/demographics/population-of-indian-states.php
