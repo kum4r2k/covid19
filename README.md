@@ -1,4 +1,4 @@
-# Analysing COVID-19 in India using python
+# Analysing COVID-19 pandemic in India using python
 
 I have included the dataset used, it was updated to 7th August 2020. This is a small project, it is not maintained regularly. It does show some patterns in the cases, deaths and other factors using the dataset compiled. I am listing the various sources below.
 
